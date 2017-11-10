@@ -1,5 +1,7 @@
 # FileCache
 
+[![Build Status](https://travis-ci.org/akarduino/FileCache.svg?branch=master)](https://travis-ci.org/akarduino/FileCache)
+
 Библиотека Arduino для хранения и получения ключ-значение данных на файловой системе.
 
 Поддерживает только значения типа int(integer).
