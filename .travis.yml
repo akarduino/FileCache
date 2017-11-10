@@ -15,4 +15,4 @@ install:
     - pip install -U platformio
 
 script:
-    - platformio ci --lib=. --board=d1 --board=d1_mini --board=uno
+    - platformio ci --lib=. --board=d1 --board=d1_mini
