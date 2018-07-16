@@ -1,3 +1,3 @@
-FileCache   KEYWORD1
-put         KEYWORD2
-get         KEYWORD2
+FileCache	KEYWORD1
+put	KEYWORD2
+get	KEYWORD2
